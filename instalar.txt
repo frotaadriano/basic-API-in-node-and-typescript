@@ -1,3 +1,7 @@
 Aula 5 - CP01P05 - -aula5 C01P05 Iniciando API w OvernightJS+express
     yarn add express body-parser @overnightjs/core 
     yarn add -D @types/express
+
+Aula 6 - CP01P05 - - aula6 - Node.js API [C01P06] - Garantindo estilo de código no Node js com prettier
+Aula 6 prettier
+  yarn add -D  prettier

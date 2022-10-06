@@ -2,8 +2,8 @@ import { SetupSever } from '@src/server';
 import supertest from 'supertest';
 
 beforeAll(() => {
-    const server = new SetupSever();
-    server.init();
+  const server = new SetupSever();
+  server.init();
 
-    globalThis.testRequest = supertest(server.getApp());
-})
+  globalThis.testRequest = supertest(server.getApp());
+});
